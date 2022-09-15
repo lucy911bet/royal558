@@ -1,0 +1,18 @@
+{
+  "name": "royal558lucy",
+  "theme": "syntax",
+  "version": "1.0.0",
+  "description": "อันดับหนึ่งเว็บ สล็อต royal558 เว็บตรงแตกง่าย ถอนไ่มอั้น",
+  "keywords": [
+    "royal558",
+    "royal558 สล็อต",
+    "royal558 เว็บตรง",
+    "สล็อต888",
+    "royal558 เครดิตฟรี"
+  ],
+  "repository": "https://github.com/lucy911bet/royal558",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
